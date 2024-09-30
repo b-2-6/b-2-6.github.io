@@ -5,7 +5,7 @@ body{
 }
 #logo{
      margin: 0px;
-     padding: 16px;
+     padding: 6px;
      font-family: "Fredoka One", sans-serif;
      width: 16%;
      text-shadow: 3vh black;
@@ -20,7 +20,7 @@ body > header{
      background-color: pink;
      color: crimson;
      display: flex;
-     height: 16vh;
+     height: 10vh;
      align-items: center;
      justify-content: space-around;
 }
@@ -97,70 +97,4 @@ img{
 #footer-ul > div > li >a{
      color: crimson;
      text-decoration: none;
-}
-
-#sending{
-     display: flex;
-     list-style: none;
-     color: palevioletred;
-
-} 
-
-#asiding > section{
-     display: flex;
-     list-style: none;
-     color: crimson;
-     background-color: pink;
-}
-
-#article-1 > header > h2{
-     display: flex;
-     list-style: none;
-     background-color: palevioletred;
-} 
-
-#article-2 > header > h2{
-     display: flex;
-     list-style: none;
-     background-color: palevioletred;
-} 
-
-#article-3 > header > h2 {
-     display: flex;
-     list-style: none;
-     background-color: palevioletred;
-} 
-
-#article-1 > header > h3{
-     display: flex;
-     list-style: none;
-     background-color: violet;
-} 
-
-#article-2 > header > h3{
-     display: flex;
-     list-style: none;
-     background-color: violet;
-} 
-
-#article-3 > header > h3 {
-     display: flex;
-     list-style: none;
-     background-color: violet;
-} 
-
-#forms-a{
-     background-color: paleturquoise;
-}
-
-body > main > h2{
-     background-color: paleturquoise;
-}
-
-body > main > h2 > form{
-     background-color: palevioletred;
-}
-
-#forming-a{
-     background-color: palevioletred;
 }
